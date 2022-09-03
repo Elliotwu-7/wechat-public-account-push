@@ -27,13 +27,13 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "obqOs6SwkW89CmyGxd2pQdOwBisI",
+      id: "obqOs6fe5X7aFKKJ5BVyht6m_RRQ",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "EvvjZ3_CbwNVZEEH8XNciKkiYIEuV3_In-WvqbaxZ_A",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://weathernew.pae.baidu.com/weathernew/pc?query=青海西宁天气&srcid=4982"
     }, 
   ],
 
@@ -71,7 +71,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "2001", "date": "04-29"},
+    {"type": "生日", "name": "美丽可爱亲亲老婆", "year": "2001", "date": "04-29"},
     {"type": "生日", "name": "吴岩", "year": "2000", "date": "07-07"},
   ],
 
