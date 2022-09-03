@@ -14,7 +14,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "老婆",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
@@ -72,7 +72,7 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "美丽可爱亲亲老婆", "year": "2001", "date": "04-29"},
-    {"type": "生日", "name": "吴岩", "year": "2000", "date": "07-07"},
+    {"type": "生日", "name": "帅气可爱亲亲老公", "year": "2000", "date": "07-07"},
   ],
 
   /**
