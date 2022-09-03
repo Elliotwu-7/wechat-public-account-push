@@ -58,9 +58,9 @@ export const config = {
    * 信息配置
    */
   // 所在省份
-  PROVINCE: "广东",
+  PROVINCE: "青海",
   // 所在城市
-  CITY: "惠州",
+  CITY: "西宁",
 
   /** 重要节日相关 */
 
@@ -72,9 +72,7 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "老婆", "year": "2001", "date": "04-29"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "吴岩", "year": "2000", "date": "07-07"},
   ],
 
   /**
@@ -82,7 +80,7 @@ export const config = {
    * 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
    * 如果为0, 则默认展示全部
    */
-  FESTIVALS_LIMIT: 4,
+  FESTIVALS_LIMIT: 0,
 
   /** 日期相关 */
 
@@ -92,7 +90,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2019-07-18"},
 
   ],
 
