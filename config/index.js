@@ -11,9 +11,6 @@ export const config = {
       useTemplateId: "EvvjZ3_CbwNVZEEH8XNciKkiYIEuV3_In-WvqbaxZ_A",
       openUrl: "https://weathernew.pae.baidu.com/weathernew/pc?query=青海西宁天气&srcid=4982"
     },     
-    
-  PROVINCE: "青海",
-  CITY: "西宁",
 
   FESTIVALS: [
     {"type": "生日", "name": "老婆", "year": "2001", "date": "04-29"},
